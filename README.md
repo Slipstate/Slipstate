@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Slipstate
-- 🌱 I’m currently learning how to make not bad games
-- 📫 How to reach me sspinstate.null@gmail.com
+- I’m @Slipstate
+- Slowly gaining inteligance
+- Reach me at spinstate.null@gmail.com
 
 <!---
 Slipstate/Slipstate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
